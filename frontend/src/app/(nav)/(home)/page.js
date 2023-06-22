@@ -12,7 +12,7 @@ export default function Home() {
           <div>
             <div>
               <h1 className="text-[#00C29A] font-heading text-5xl sm:text-7xl md:text-7xl lg:text-7xl xl:text-8xl transition-all duration-300">
-                CRYPTIC HUNT
+                XEROCRYPT
               </h1>
             </div>
           </div>
@@ -25,7 +25,7 @@ export default function Home() {
                 className="text-[#00C29A] font-montserrat tracking-[0.75rem] sm:tracking-[1.75rem] md:tracking-[1.75rem] lg:tracking-[1.75rem] xl:tracking-[1.75rem]
                text-[0.4rem] sm:text-xs md:text-xs lg:text-xs xl:text-xs transition-all duration-300"
               >
-                LET THE HUNT BEGIN!
+                Decipher Engage Conquer
               </h3>
             </div>
           </div>
