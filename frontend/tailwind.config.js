@@ -20,11 +20,14 @@ module.exports = {
       white: "#FFFFFF",
       main: "#00C29",
       black: "#000000",
+      danger: "#F45050",
     },
     fontFamily: {
-      heading: ["Autom"],
-      sub: ["Fira Code"],
-      button: ["Upheavel"],
+      heading: ["var(--font-autom)"],
+      sub: ["var(--font-fira-code)"],
+      button: ["var(--font-upheaval)"],
+      montserrat: ["var(--font-montserrat)"],
+      minecraftia: ["var(--font-minecraftia)"],
     },
     extend: {
       backgroundImage: {
@@ -34,6 +37,12 @@ module.exports = {
       },
       colors: {
         main: "#00C29A",
+      },
+      fontFamily: {
+        "fira-code": ["var(--font-fira-code)"],
+        "fira-code-2": ["Fira Code Medium", "monospace"],
+        Autom: ["var(--font-autom)"],
+        Minecraftia: ["var(--font-minecraftia)"],
       },
     },
   },
